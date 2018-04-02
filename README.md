@@ -1,6 +1,8 @@
-# Vue CSS Module Demo
+# Vue CSS Modules Demo
 
 This is a simple demo project for using css modules in Vue components
+
+Find out CSS Modules spec on [CSS-Modules](https://github.com/css-modules/css-modules)
 
 ## Run the example
 
